@@ -1,0 +1,2 @@
+'http://api.weatherapi.com/v1/current.json?key=YOUR_API_KEY&q=bulk'
+API 7b68cd1bbffd4eb9aa8174359241004
